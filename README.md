@@ -31,7 +31,9 @@ As the 1st step, we explored the data to better understand the quality of the da
     - LASSO
     - Forest
 
-The Best Model for this exercise happened to be Forest, However, my laptop could not handle running Foest and it would crash ater 30 inutes.
+The Best Model for this exercise happened to be Forest, However, my laptop could not handle running Forest and it would crash ater 30 minutes. 
+
+I then decided to take a sample, but the result of using Forest modeling was the same. The exciting part was that after Sampling, the MSE, MAE,.. were very similar as using the original data.
 
 The next best Model is Linear Regression.
 
